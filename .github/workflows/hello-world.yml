@@ -8,7 +8,7 @@ on:
 env:
   REMOTE: duanjiong/duanjiong.github.io.git
   DEST: public
-  TOKEN: ${{ secrets.TOKEN }}
+  TOKEN: ${{ secrets.SECRET }}
 
 jobs:
   build:
