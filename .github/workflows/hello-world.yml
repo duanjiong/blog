@@ -25,4 +25,4 @@ jobs:
       - name: 🚀 Build and deploy
         #env:
         #  HUGO_ARGS:
-        uses: victoriadrake/hugo-remote@master
+        uses: duanjiong/hugo-remote@master
