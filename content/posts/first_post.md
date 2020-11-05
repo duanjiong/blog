@@ -16,9 +16,15 @@ draft: false
 既然开始， 那么我也希望能将这件事情长久地进行下去， 为此我打算将此工作尽量标准化， 同时能最大程度地分享， 所以后续写作会参考以下规范：
 * [KubeSphere Documentation Style Guide](https://github.com/kubesphere/website/blob/master/KubeSphere%20Documentation%20Style%20Guide.md)
 * [KubeSphere Localization Style Guide (for Simplified Chinese)](https://github.com/kubesphere/website/blob/master/localization_style_guides/KubeSphere%20Localization%20Style%20Guide%20(for%20Simplified%20Chinese).md)
-* [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/)
 * [Kubernetes Documentation Style Guide](https://kubernetes.io/docs/contribute/style/style-guide/)
 * [Kubernetes Community Style Guide](https://github.com/kubernetes/community/blob/master/contributors/guide/style-guide.md)
+* [Guide for Internet Standards Writers](https://tools.ietf.org/html/rfc2360)
+* [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/)
+
+软件开发需求设计
+* [Blueprints, Specs and Priorities](https://docs.openstack.org/nova/queens/contributor/blueprints.html)
+* [Openstack Blueprints](https://wiki.openstack.org/wiki/Blueprints)
+* [Neutron Spec](https://specs.openstack.org/openstack/neutron-specs/)
 
 ## 搭建
 根据[步骤](https://gohugo.io/hosting-and-deployment/hosting-on-github/#step-by-step-instructions)创建好GitHub Repos [blog](https://github.com/duanjiong/hugo-blog)和[pages](https://github.com/duanjiong/duanjiong.github.io), 然后
